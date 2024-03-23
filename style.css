@@ -22,7 +22,7 @@ nav {
 
 @media(max-width:420px){
     .logo {
-        width: 23%;
+        width: 28%;
     }
 }
 
@@ -124,7 +124,7 @@ nav {
     }
    
     .bar i{
-        font-size: 40px;
+        font-size: 28px;
         color: rgb(110, 107, 107);
     }
     .logo{
