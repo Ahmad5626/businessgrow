@@ -49,12 +49,14 @@ prev.onclick = prevSlider;
 
 
 
-let responsive = document.getElementById('responsive');
+
 function showcard(){
+    let  responsive = document.getElementById('responsive');
     responsive.classList.toggle('left')
     
 }
 
 function removecard(){
+    let  responsive = document.getElementById('responsive');
     responsive.classList.toggle('left')
 }
